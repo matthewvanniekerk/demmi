@@ -7,6 +7,6 @@ The **[notebook](Differential_Evolution.ipynb)**, contains the script used to op
 
 We provide the modules needed to control:
 
-*laser (ANDO AQ4321) 
-*detector (Keysight N7744A) 
-*source/measure device ([Qontrol](http://qontrol.co.uk))
++laser (ANDO AQ4321) 
++detector (Keysight N7744A) 
++source/measure device ([Qontrol](http://qontrol.co.uk))
