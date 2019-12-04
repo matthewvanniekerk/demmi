@@ -1,4 +1,4 @@
-# DE MMI
+# <span style="font-family: 'Open Sans';">DE MMI</span>
 Differential Evolution for Multimode Interferometer
 
 This notebook demonstrates an evolutionary algorithm applied to optimizing an experiment.
